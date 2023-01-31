@@ -1,0 +1,41 @@
+{
+  "boards": [
+    {
+      "name": "Kanban Board",
+      "id": 1,
+      "active": true,
+      "columns": [
+        {
+          "name": "Backlog",
+          "color": "#fff333",
+          "id": 1,
+          "boardID": 1,
+          "tasks": [
+          ]
+        },
+        {
+          "name": "Todo",
+          "id": 2,
+          "color": "#44ffff",
+          "boardID": 1,
+          "tasks": [
+          ]
+        },
+        {
+          "name": "Ongoing",
+          "color": "#44ff44",
+          "id": 3,
+          "boardID": 1,
+          "tasks": []
+        },
+        {
+          "name": "Done",
+          "color": "#44ff44",
+          "id": 4,
+          "boardID": 1,
+          "tasks": []
+        }
+      ]
+    }
+  ]
+}
